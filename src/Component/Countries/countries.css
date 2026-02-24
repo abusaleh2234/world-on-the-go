@@ -2,3 +2,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
+.visited-Flags img{
+ width: 120px;
+ margin: 10px;
+}
