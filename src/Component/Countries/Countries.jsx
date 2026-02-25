@@ -22,6 +22,7 @@ const Countries = ({countriesPromises}) => {
     return (
         <div>
             <h1>This is a Countries {countries.length}</h1>
+            {/* <h1>This is a Countries {countries.length}</h1> */}
             <h5>Visited Country : {visitedCountries.length}</h5>
             
             <div className="">
